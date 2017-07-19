@@ -1,0 +1,5 @@
+1.导入Decrypt.h,Encrypt.h,RC4.cpp,RC4.h,Header.h里的代码</br>
+2.用Codelite或VS运行RC4.cpp</br>
+3.按照程序的指示建立要加密的文件</br>
+4.会自动输出加密后的文件以及密钥文件(放在同一个目录下)</br>
+5.解密的话需要密钥文件+密文</br>
